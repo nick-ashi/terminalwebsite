@@ -16,16 +16,57 @@ body {
     padding: 20px;
 }
 
-#titlebar {
+.wizardpic {
+    border-radius: 100%;
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+}
+
+#header {
+    display: flex;
+    align-items: center; /* Vertically center the children */
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#header-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Container for title and helpbar text */
+#header-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Optional: Adjust margins for the title and helpbar if needed */
+#titlebar,
+#helpbar {
+    margin: 0;  /* Remove default margins to help alignment */
+    color: lime;
+}
+
+/* You might remove the left padding from #helpbar now that it's in the header-text container */
+#helpbar {
+    margin-top: 5px;
+}
+
+/* #titlebar {
     color: lime;
     padding-left: 20px;
+    margin-top: 20px;
     margin-bottom: 5px;
 }
 #helpbar {
     color: lime;
     margin-top: 5px;
     padding-left: 20px;
-}
+} */
 
 #terminal {
     width: 100%;
@@ -72,6 +113,12 @@ body {
 }
 
 .headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.exppics {
     display: block;
     margin-left: auto;
     margin-right: auto;

@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
         ],
         // POKEMON RADICAL RED
         pkmn: "<iframe src='https://www.retrogames.cc/embed/46552-pokemon-radical-red-v4-1.html' align-self: center; width='600' height='450' frameborder='no' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' scrolling='no'></iframe></iframe>\nPokemon Radical Red",
-        resume: "Reddirecting you to my resume..."
+        resume: "Redirecting you to my resume..."
     };
 
     // For viewing the most recent command

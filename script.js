@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Process commands when the user presses Enter
     inputField.addEventListener("keydown", function (event) {
         if (event.key === "Enter") {
-            const command = inputField.value.trim();
+            const command = String(inputField.value.trim()).toLowerCase();
             processCommand(command);
             inputField.value = "";
         }

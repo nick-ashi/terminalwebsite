@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Nerd Fonts Hack';
+    src: url('fonts/NerdFontsHack-Regular.woff2') format('woff2'),
+         url('fonts/NerdFontsHack-Regular.woff') format('woff'),
+         url('fonts/NerdFontsHack-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Nerd Fonts Hack', monospace;
+    font-size: 16px;
+    margin: 0;
+    padding: 20px;
+}
+
+#titlebar {
+    color: lime;
+    padding-left: 20px;
+    margin-bottom: 5px;
+}
+#helpbar {
+    color: lime;
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+#terminal {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    background-color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#output {
+    white-space: pre-wrap;
+    min-height: 300px;
+}
+
+#input-line {
+    display: flex;
+}
+
+.welcome {
+    color: cyan;
+    font-weight: bold;
+}
+
+.ashiterminal {
+    color: lime;
+    font-weight: bold;
+}
+
+.prompt {
+    color: lime;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+#command-input {
+    background: transparent;
+    border: none;
+    color: white;
+    font-family: 'Nerd Fonts Hack', monospace;
+    font-size: 16px;
+    width: 100%;
+    outline: none;
+}
+
+.headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

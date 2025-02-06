@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const commands = {
         cmd: "Available commands:\nhelp OR cmd\n" + 
         "clear\n\n--- PROFESSIONAL ---\nabout OR whoru\nexperience\nprojects\nskills\nresume\ncontact\n\n" + 
-        "--- PERSONAL ---\nhobbies\nmehul\nhello\npkmn\nname\nanvrsy",
+        "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
         help: "Available commands:\nhelp OR cmd\nclear\n\n--- PROFESSIONAL ---\nabout OR whoru\nexperience\nprojects\nskills\nresume\ncontact\n\n--- PERSONAL ---\nhobbies\nmehul\nhello\npkmn\nname\nanvrsy",
         about: "<img src='images/Ashizawa, Nicolas IMG_0412.JPG' class='headshot' style='width: 500px; height: auto' alt='My headshot should be here'></img>\nI'm Nick Ashizawa. People either call me Nick or Ashi—either one works! I'm a fourth-year Computer Science major passionate about general software development and eager to gain industry experience. I originally studied Computer Engineering but switched to Computer Science after my second year to follow my greater interest in programming.\n\nI currently work as an Automation Engineer at Citizens Financial Group primarily working with technologies like UiPath, C#, .NetVB, and JS. I have experience teaching the basics of programming in Python, C++, Java, and more, and I was recently involved in research at UC Irvine, focusing on developing digital twins for natural disaster preparedness.\n\nIn my free time, I enjoy playing guitar, soccer, reading, and following the gaming industry.\n\nThis is my terminal-style portfolio. Built with HTML, CSS, and JavaScript. Raw code. No frameworks.",
         whoru: "<img src='images/Ashizawa, Nicolas IMG_0412.JPG' class='headshot' style='width: 500px; height: auto; ' alt='My headshot should be here'></img>\nI'm Nick Ashizawa. People either call me Nick or Ashi—either one works! I'm a fourth-year Computer Science major passionate about general software development and eager to gain industry experience. I originally studied Computer Engineering but switched to Computer Science after my second year to follow my greater interest in programming.\n\nI currently work as an Automation Engineer at Citizens Financial Group primarily working with technologies like UiPath, C#, .NetVB, and JS. I have experience teaching the basics of programming in Python, C++, Java, and more, and I was recently involved in research at UC Irvine, focusing on developing digital twins for natural disaster preparedness.\n\nIn my free time, I enjoy playing guitar, soccer, reading, and following the gaming industry.\n\nThis is my terminal-style portfolio. Built with HTML, CSS, and JavaScript. Raw code. No frameworks.",
@@ -67,7 +67,8 @@ document.addEventListener("DOMContentLoaded", () => {
         ],
         // POKEMON RADICAL RED
         pkmn: "<iframe src='https://www.retrogames.cc/embed/46552-pokemon-radical-red-v4-1.html' align-self: center; width='600' height='450' frameborder='no' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' scrolling='no'></iframe></iframe>\nPokemon Radical Red",
-        resume: "Reddirecting you to my resume..."
+        resume: "Reddirecting you to my resume...",
+        reina: "Hello, sister..."
     };
 
     // For viewing the most recent command
@@ -107,6 +108,11 @@ document.addEventListener("DOMContentLoaded", () => {
             response = commands.resume;
             setTimeout(() => {
                 window.location.href = 'resume.html';
+            }, 1000); 
+        } else if (command === "reina") {
+            response = commands.reina;
+            setTimeout(() => {
+                window.location.href = 'https://tft.op.gg/?hl=en_US';
             }, 1000); 
         } else {
             response = commands[command] || `Command not found: ${command}`;

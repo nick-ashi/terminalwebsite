@@ -17,10 +17,10 @@ document.addEventListener("DOMContentLoaded", () => {
     // Input options for the terminal
     const commands = {
         cmd: "Available commands:\nhelp OR cmd\n" + 
-        "clear\n\n--- PROFESSIONAL ---\nabout OR whoru\nexperience\nprojects\nskills\nresume\ncontact\n\n" + 
+        "clear\n\n--- PROFESSIONAL ---\nabout OR whoru\nexperience\ngithub\nskills\nresume\ncontact\n\n" + 
         "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
         help: "Available commands:\nhelp OR cmd\nclear\n\n" + 
-        "--- PROFESSIONAL ---\nabout OR whoru\nexperience\nprojects\nskills\nresume\ncontact\n\n" +
+        "--- PROFESSIONAL ---\nabout OR whoru\nexperience\ngithub\nskills\nresume\ncontact\n\n" +
         "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
         about: "<img src='images/Ashizawa, Nicolas IMG_0412.JPG' class='headshot' style='width: 500px; height: auto' alt='My headshot should be here'></img>\nI'm Nick Ashizawa. People either call me Nick or Ashi—either one works! I'm a fourth-year Computer Science major passionate about general software development and eager to gain industry experience. I originally studied Computer Engineering but switched to Computer Science after my second year to follow my greater interest in programming.\n\nI currently work as an Automation Engineer at Citizens Financial Group primarily working with technologies like UiPath, C#, .NetVB, and JS. I have experience teaching the basics of programming in Python, C++, Java, and more, and I was recently involved in research at UC Irvine, focusing on developing digital twins for natural disaster preparedness.\n\nIn my free time, I enjoy playing guitar, soccer, reading, and following the gaming industry.\n\nThis is my terminal-style portfolio. Built with HTML, CSS, and JavaScript. Raw code. No frameworks.",
         whoru: "<img src='images/Ashizawa, Nicolas IMG_0412.JPG' class='headshot' style='width: 500px; height: auto; ' alt='My headshot should be here'></img>\nI'm Nick Ashizawa. People either call me Nick or Ashi—either one works! I'm a fourth-year Computer Science major passionate about general software development and eager to gain industry experience. I originally studied Computer Engineering but switched to Computer Science after my second year to follow my greater interest in programming.\n\nI currently work as an Automation Engineer at Citizens Financial Group primarily working with technologies like UiPath, C#, .NetVB, and JS. I have experience teaching the basics of programming in Python, C++, Java, and more, and I was recently involved in research at UC Irvine, focusing on developing digital twins for natural disaster preparedness.\n\nIn my free time, I enjoy playing guitar, soccer, reading, and following the gaming industry.\n\nThis is my terminal-style portfolio. Built with HTML, CSS, and JavaScript. Raw code. No frameworks.",
@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "<strong><u>Japan Center for International Exchange (JCIE)</u></strong>\n" +
         "<ul><li>Organized and edited digital files while utilizing interpersonal, verbal, written communication</li>\n" +
         "<li>Identified, analyzed and corrected data entry errors in organization archives during routine data audits through the use of HTML and WordPress</li></ul>\n",
-        projects: "Check out my GitHub at: https://github.com/nick-ashi",
+        github: "Check out my GitHub at: https://github.com/nick-ashi",
         skills: "IN DEV",
         hobbies: "IN DEV",
         contact: "Email me at: ashizawa.n@northeastern.edu",

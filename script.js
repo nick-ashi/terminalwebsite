@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const inputField = document.getElementById("command-input");
     
 
-    const asciiName = `
+    const asciiNameApple = `
     ▗▖  ▗▖▗▄▄▄▖ ▗▄▄▖▗▖ ▗▖    
     ▐▛▚▖▐▌  █  ▐▌   ▐▌▗▞▘    
     ▐▌ ▝▜▌  █  ▐▌   ▐▛▚▖     
@@ -13,6 +13,31 @@ document.addEventListener("DOMContentLoaded", () => {
     ▐▛▀▜▌ ▝▀▚▖▐▛▀▜▌  █       
     ▐▌ ▐▌▗▄▄▞▘▐▌ ▐▌▗▄█▄▖zawa                                                                                                                       
     `;
+
+    const asciiNameWindows = `
+    ███    ██ ██  ██████ ██   ██ 
+    ████   ██ ██ ██      ██  ██  
+    ██ ██  ██ ██ ██      █████   
+    ██  ██ ██ ██ ██      ██  ██  
+    ██   ████ ██  ██████ ██   ██ 
+                                               
+     █████  ███████ ██   ██ ██   
+    ██   ██ ██      ██   ██ ██   
+    ███████ ███████ ███████ ██   
+    ██   ██      ██ ██   ██ ██   
+    ██   ██ ███████ ██   ██ ██ zawa`
+
+     // Detect the user's platform and select the proper ASCII art.
+     let asciiName;
+     const platform = navigator.platform.toLowerCase();
+     if (platform.indexOf("win") !== -1) {
+         asciiName = asciiNameWindows;
+     } else if (platform.indexOf("mac") !== -1) {
+         asciiName = asciiNameApple;
+     } else {
+         // Fallback to one of them (here, Apple version) if the platform is not recognized.
+         asciiName = asciiNameApple;
+     }
 
     // Input options for the terminal
     const commands = {
@@ -69,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
         ],
         // POKEMON RADICAL RED
         pkmn: "<iframe src='https://www.retrogames.cc/embed/46552-pokemon-radical-red-v4-1.html' align-self: center; width='600' height='450' frameborder='no' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' scrolling='no'></iframe></iframe>\nPokemon Radical Red",
-        resume: "Reddirecting you to my resume...",
+        resume: "Redirecting you to my resume...",
         reina: "Hello, sister..."
     };
 

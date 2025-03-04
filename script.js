@@ -1,3 +1,5 @@
+// REMEMBER TO OBFSUCUIUWIQDH THE SCRIPT
+
 document.addEventListener("DOMContentLoaded", () => {
     const output = document.getElementById("output");
     const inputField = document.getElementById("command-input");

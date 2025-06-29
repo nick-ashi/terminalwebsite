@@ -55,9 +55,12 @@ document.addEventListener("DOMContentLoaded", () => {
         // Citizens exp
         "\n<img src='images/citizens.png' class='exppics' style='width: 250px; height: auto' alt='cfgicon'></img>\n" +
         "<strong><u>(Current) Automation SWE @ Citizens Financial Group</u></strong>\n" +
-        "<ul><li>Utilize UiPath to create scalable intelligent process automations</li>\n" +
+        "<ul><li>Delivered a project end-to-end automating a large part of a client's workflow involving the monitoring, updating, and maintenance of multiple DDA checking accounts (handling over minimum 50+ transactions daily)</li>\n" +
+        "<li>Optimized and added new logic to three legacy automations, improving their efficiency and reliability as well as improving ledgibility of code for future developers</li>\n" +
+        "<li>Utilize UiPath to create scalable intelligent process automations</li>\n" +
         "<li>Communicate with the business line, solution architect, and fellow developers in order to ensure the efficiency of an automation</li>\n" +
-        "<li>Develop UiPath libraries for developer use in C#, VB</li></ul>\n" +
+        "<li>Develop UiPath libraries for developer use in C#, VB</li>\n" +
+        "<li>**Re-hired to continue part-time**</li></ul>\n" +
         // UCI exp
         "<img src='images/digitwinpanel.png' class='exppics' style='width:  300px; height: auto;' alt='digitwinpic'></img>\n" +
         "<strong><u>NSF Research: Digital Twins for Natural Disasters (Japan)</u></strong>\n" +

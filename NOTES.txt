@@ -1,3 +1,0 @@
-notes from last time
-- 2g8ka
-    - put current js content into the obfs and push again

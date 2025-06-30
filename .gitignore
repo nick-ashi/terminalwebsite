@@ -1,0 +1,11 @@
+# JavaScript files
+script.js
+
+# Notes file
+NOTES.txt
+
+# Images directory
+images/
+
+# Assets directory (if you want to exclude the resume PDF as well)
+# assets/

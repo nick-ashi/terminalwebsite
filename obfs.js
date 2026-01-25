@@ -1,1 +1,161 @@
-const _0x539bbf=_0x245c;function _0x1fbd(){const _0x5cff4c=['<li>Actively\x20communicated\x20project\x20updates\x20through\x20weekly\x20team\x20meetings\x20and\x20contributed\x20to\x20a\x20productive\x20and\x20supportive\x20work\x20environment\x20through\x20effective\x20teamwork</li></ul>\x0a','425676LeVpns','<strong><u>Japan\x20Center\x20for\x20International\x20Exchange\x20(JCIE)</u></strong>\x0a','<ul><li>Organized\x20and\x20edited\x20digital\x20files\x20while\x20utilizing\x20interpersonal,\x20verbal,\x20written\x20communication</li>\x0a','44aAEbCc','My\x20inspiration\x20from\x20mehulnair.com.\x20Hire\x20that\x20man\x20immediately.','Hello,\x20sister...','Redirecting\x20you\x20to\x20my\x20resume...','https://tft.op.gg/?hl=en_US','457948fjXyOG','i\x27m\x20most\x20likely\x20thinking\x20about\x20you\x20right\x20now','<li>Taught\x20over\x20150\x20students\x20across\x20elementary,\x20middle,\x20and\x20high\x20school\x20age\x20groups,\x20keeping\x20topics\x20accessible\x20to\x20diverse\x20coding\x20backgrounds\x20and\x20age\x20groups</li>\x0a','trim','2191882ucpAZG','65GErDsL','floor','<li>Optimized\x20and\x20added\x20new\x20logic\x20to\x20three\x20legacy\x20automations,\x20improving\x20their\x20efficiency\x20and\x20reliability\x20as\x20well\x20as\x20improving\x20ledgibility\x20of\x20code\x20for\x20future\x20developers</li>\x0a','<img\x20src=\x27images/Ashizawa,\x20Nicolas\x20IMG_0412.JPG\x27\x20class=\x27headshot\x27\x20style=\x27width:\x20500px;\x20height:\x20auto\x27\x20alt=\x27My\x20headshot\x20should\x20be\x20here\x27></img>\x0aI\x27m\x20Nick\x20Ashizawa.\x20People\x20either\x20call\x20me\x20Nick\x20or\x20Ashi—either\x20one\x20works!\x20I\x27m\x20a\x20fourth-year\x20Computer\x20Science\x20major\x20passionate\x20about\x20general\x20software\x20development\x20and\x20eager\x20to\x20gain\x20industry\x20experience.\x20I\x20originally\x20studied\x20Computer\x20Engineering\x20but\x20switched\x20to\x20Computer\x20Science\x20after\x20my\x20second\x20year\x20to\x20follow\x20my\x20greater\x20interest\x20in\x20programming.\x0a\x0aI\x20currently\x20work\x20as\x20an\x20Automation\x20Engineer\x20at\x20Citizens\x20Financial\x20Group\x20primarily\x20working\x20with\x20technologies\x20like\x20UiPath,\x20C#,\x20.NetVB,\x20and\x20JS.\x20I\x20have\x20experience\x20teaching\x20the\x20basics\x20of\x20programming\x20in\x20Python,\x20C++,\x20Java,\x20and\x20more,\x20and\x20I\x20was\x20recently\x20involved\x20in\x20research\x20at\x20UC\x20Irvine,\x20focusing\x20on\x20developing\x20digital\x20twins\x20for\x20natural\x20disaster\x20preparedness.\x0a\x0aIn\x20my\x20free\x20time,\x20I\x20enjoy\x20playing\x20guitar,\x20soccer,\x20reading,\x20and\x20following\x20the\x20gaming\x20industry.\x0a\x0aThis\x20is\x20my\x20terminal-style\x20portfolio.\x20Built\x20with\x20HTML,\x20CSS,\x20and\x20JavaScript.\x20Raw\x20code.\x20No\x20frameworks.','1787570HMQqbt','\x0a<img\x20src=\x27images/citizens.png\x27\x20class=\x27exppics\x27\x20style=\x27width:\x20250px;\x20height:\x20auto\x27\x20alt=\x27cfgicon\x27></img>\x0a','toLowerCase','\x0a\x20\x20\x20\x20███\x20\x20\x20\x20██\x20██\x20\x20██████\x20██\x20\x20\x20██\x20\x0a\x20\x20\x20\x20████\x20\x20\x20██\x20██\x20██\x20\x20\x20\x20\x20\x20██\x20\x20██\x20\x20\x0a\x20\x20\x20\x20██\x20██\x20\x20██\x20██\x20██\x20\x20\x20\x20\x20\x20█████\x20\x20\x20\x0a\x20\x20\x20\x20██\x20\x20██\x20██\x20██\x20██\x20\x20\x20\x20\x20\x20██\x20\x20██\x20\x20\x0a\x20\x20\x20\x20██\x20\x20\x20████\x20██\x20\x20██████\x20██\x20\x20\x20██\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20█████\x20\x20███████\x20██\x20\x20\x20██\x20██\x20\x20\x20\x0a\x20\x20\x20\x20██\x20\x20\x20██\x20██\x20\x20\x20\x20\x20\x20██\x20\x20\x20██\x20██\x20\x20\x20\x0a\x20\x20\x20\x20███████\x20███████\x20███████\x20██\x20\x20\x20\x0a\x20\x20\x20\x20██\x20\x20\x20██\x20\x20\x20\x20\x20\x20██\x20██\x20\x20\x20██\x20██\x20\x20\x20\x0a\x20\x20\x20\x20██\x20\x20\x20██\x20███████\x20██\x20\x20\x20██\x20██\x20zawa','<li>Develop\x20UiPath\x20libraries\x20for\x20developer\x20use\x20in\x20C#,\x20VB</li>\x0a','---\x20PROFESSIONAL\x20---\x0aabout\x20OR\x20whoru\x0aexperience\x0agithub\x0askills\x0aresume\x0acontact\x0a\x0a','08032023','Available\x20commands:\x0ahelp\x20OR\x20cmd\x0a','scrollHeight','mac','indexOf','12cCQNJL','Check\x20out\x20my\x20GitHub\x20at:\x20https://github.com/nick-ashi','<img\x20src=\x27images/digitwinpanel.png\x27\x20class=\x27exppics\x27\x20style=\x27width:\x20\x20300px;\x20height:\x20auto;\x27\x20alt=\x27digitwinpic\x27></img>\x0a','32755cRJJfx','addEventListener','DOMContentLoaded','reina','output','Enter','location','<li>Utilize\x20UiPath\x20to\x20create\x20scalable\x20intelligent\x20process\x20automations</li>\x0a','command-input','keydown','hello','IN\x20DEV','<strong><u>Code\x20Ninjas\x20-\x20Instructor,\x20Program\x20Director</u></strong>\x0a','getElementById','148866ASwSvd','href','Can\x20you\x20please\x20just\x20use\x20the\x20terminal\x20for\x20its\x20intended\x20purpose.','Don\x27t\x20say\x20hi\x20to\x20me.\x20I\x27m\x20just\x20a\x20computer.','<li>Experimented\x20with\x20and\x20integrated\x20tools\x20such\x20as\x20Unity,\x20PLATEAU\x20SDK,\x20CityGML,\x20OpenStreetMaps,\x20and\x20C#\x20to\x20create\x20AI-enabled\x20agents\x20for\x20running\x20simulations</li>\x0a','---\x20PERSONAL\x20---\x0ahobbies\x0amehul\x0areina\x0ahello\x0apkmn\x0aname\x0aanvrsy','<iframe\x20src=\x27https://www.retrogames.cc/embed/46552-pokemon-radical-red-v4-1.html\x27\x20align-self:\x20center;\x20width=\x27600\x27\x20height=\x27450\x27\x20frameborder=\x27no\x27\x20allowfullscreen=\x27true\x27\x20webkitallowfullscreen=\x27true\x27\x20mozallowfullscreen=\x27true\x27\x20scrolling=\x27no\x27></iframe></iframe>\x0aPokemon\x20Radical\x20Red','i\x20love\x20you\x20<3','<span\x20class=\x22welcome\x22>welcome</span><span\x20class=\x22ashiterminal\x22>@ashiterminal</span>:~$\x20','<li>Engineered\x20algorithms\x20to\x20optimize\x20agent\x20behavior,\x20simulating\x20real-world\x20responses\x20to\x20emergency\x20scenarios</li>\x0a','<img\x20src=\x27images/Ashizawa,\x20Nicolas\x20IMG_0412.JPG\x27\x20class=\x27headshot\x27\x20style=\x27width:\x20500px;\x20height:\x20auto;\x20\x27\x20alt=\x27My\x20headshot\x20should\x20be\x20here\x27></img>\x0aI\x27m\x20Nick\x20Ashizawa.\x20People\x20either\x20call\x20me\x20Nick\x20or\x20Ashi—either\x20one\x20works!\x20I\x27m\x20a\x20fourth-year\x20Computer\x20Science\x20major\x20passionate\x20about\x20general\x20software\x20development\x20and\x20eager\x20to\x20gain\x20industry\x20experience.\x20I\x20originally\x20studied\x20Computer\x20Engineering\x20but\x20switched\x20to\x20Computer\x20Science\x20after\x20my\x20second\x20year\x20to\x20follow\x20my\x20greater\x20interest\x20in\x20programming.\x0a\x0aI\x20currently\x20work\x20as\x20an\x20Automation\x20Engineer\x20at\x20Citizens\x20Financial\x20Group\x20primarily\x20working\x20with\x20technologies\x20like\x20UiPath,\x20C#,\x20.NetVB,\x20and\x20JS.\x20I\x20have\x20experience\x20teaching\x20the\x20basics\x20of\x20programming\x20in\x20Python,\x20C++,\x20Java,\x20and\x20more,\x20and\x20I\x20was\x20recently\x20involved\x20in\x20research\x20at\x20UC\x20Irvine,\x20focusing\x20on\x20developing\x20digital\x20twins\x20for\x20natural\x20disaster\x20preparedness.\x0a\x0aIn\x20my\x20free\x20time,\x20I\x20enjoy\x20playing\x20guitar,\x20soccer,\x20reading,\x20and\x20following\x20the\x20gaming\x20industry.\x0a\x0aThis\x20is\x20my\x20terminal-style\x20portfolio.\x20Built\x20with\x20HTML,\x20CSS,\x20and\x20JavaScript.\x20Raw\x20code.\x20No\x20frameworks.','Again?\x20I\x27m\x20not\x20a\x20person.\x20I\x27m\x20a\x20computer.','resume','114248ZdEXNG','207sGkiSN','ArrowUp','<img\x20src=\x27images/codenin.jpg\x27\x20class=\x27exppics\x27\x20style=\x27width:\x20\x20300px;\x20height:\x20auto;\x27\x20alt=\x27codeninpic\x27></img>\x0a','random','I\x27m\x20just\x20a\x20computer.\x20I\x20don\x27t\x20have\x20feelings.','value','innerHTML','<ul><li>Designed\x20and\x20developed\x20an\x20interactive\x20predictive\x20city-scale\x20digital\x20twin\x20for\x20natural\x20disaster\x20preparedness\x20and\x20evacuation\x20optimization\x20as\x20a\x20part\x20of\x20the\x20NSF-funded\x20IoT-SITY\x20research\x20program</li>\x0a'];_0x1fbd=function(){return _0x5cff4c;};return _0x1fbd();}function _0x245c(_0x2042f5,_0x2cd0b7){const _0x1fbdbd=_0x1fbd();return _0x245c=function(_0x245c62,_0xfa5d03){_0x245c62=_0x245c62-0xcb;let _0x7d876=_0x1fbdbd[_0x245c62];return _0x7d876;},_0x245c(_0x2042f5,_0x2cd0b7);}(function(_0x3089de,_0x4c0276){const _0x4b52c1=_0x245c,_0xf87f9=_0x3089de();while(!![]){try{const _0x3d77fd=-parseInt(_0x4b52c1(0xd6))/0x1*(-parseInt(_0x4b52c1(0xd3))/0x2)+parseInt(_0x4b52c1(0xfb))/0x3+parseInt(_0x4b52c1(0x103))/0x4+parseInt(_0x4b52c1(0x108))/0x5*(-parseInt(_0x4b52c1(0xe4))/0x6)+-parseInt(_0x4b52c1(0x107))/0x7+-parseInt(_0x4b52c1(0xf1))/0x8*(parseInt(_0x4b52c1(0xf2))/0x9)+parseInt(_0x4b52c1(0x10c))/0xa*(parseInt(_0x4b52c1(0xfe))/0xb);if(_0x3d77fd===_0x4c0276)break;else _0xf87f9['push'](_0xf87f9['shift']());}catch(_0x5422a8){_0xf87f9['push'](_0xf87f9['shift']());}}}(_0x1fbd,0x31c1d),document[_0x539bbf(0xd7)](_0x539bbf(0xd8),()=>{const _0x467d77=_0x539bbf,_0x849711=document[_0x467d77(0xe3)](_0x467d77(0xda)),_0x541904=document[_0x467d77(0xe3)](_0x467d77(0xde)),_0x2b88cd='\x0a\x20\x20\x20\x20▗▖\x20\x20▗▖▗▄▄▄▖\x20▗▄▄▖▗▖\x20▗▖\x20\x20\x20\x20\x0a\x20\x20\x20\x20▐▛▚▖▐▌\x20\x20█\x20\x20▐▌\x20\x20\x20▐▌▗▞▘\x20\x20\x20\x20\x0a\x20\x20\x20\x20▐▌\x20▝▜▌\x20\x20█\x20\x20▐▌\x20\x20\x20▐▛▚▖\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20▐▌\x20\x20▐▌▗▄█▄▖▝▚▄▄▖▐▌\x20▐▌\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20▗▄▖\x20\x20▗▄▄▖▗▖\x20▗▖▗▄▄▄▖\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20▐▌\x20▐▌▐▌\x20\x20\x20▐▌\x20▐▌\x20\x20█\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20▐▛▀▜▌\x20▝▀▚▖▐▛▀▜▌\x20\x20█\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20▐▌\x20▐▌▗▄▄▞▘▐▌\x20▐▌▗▄█▄▖zawa\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20',_0x1912ad=_0x467d77(0xcb);let _0xeea394;const _0x57280f=navigator['platform'][_0x467d77(0x10e)]();if(_0x57280f[_0x467d77(0xd2)]('win')!==-0x1)_0xeea394=_0x1912ad;else _0x57280f[_0x467d77(0xd2)](_0x467d77(0xd1))!==-0x1?_0xeea394=_0x2b88cd:_0xeea394=_0x2b88cd;const _0x202114={'cmd':_0x467d77(0xcf)+'clear\x0a\x0a---\x20PROFESSIONAL\x20---\x0aabout\x20OR\x20whoru\x0aexperience\x0agithub\x0askills\x0aresume\x0acontact\x0a\x0a'+_0x467d77(0xe9),'help':'Available\x20commands:\x0ahelp\x20OR\x20cmd\x0aclear\x0a\x0a'+_0x467d77(0xcd)+_0x467d77(0xe9),'about':_0x467d77(0x10b),'whoru':_0x467d77(0xee),'experience':_0x467d77(0x10d)+'<strong><u>(Current)\x20Automation\x20SWE\x20@\x20Citizens\x20Financial\x20Group</u></strong>\x0a'+'<ul><li>Delivered\x20a\x20project\x20end-to-end\x20automating\x20a\x20large\x20part\x20of\x20a\x20client\x27s\x20workflow\x20involving\x20the\x20monitoring,\x20updating,\x20and\x20maintenance\x20of\x20multiple\x20DDA\x20checking\x20accounts\x20(handling\x20over\x20minimum\x2050+\x20transactions\x20daily)</li>\x0a'+_0x467d77(0x10a)+_0x467d77(0xdd)+'<li>Communicate\x20with\x20the\x20business\x20line,\x20solution\x20architect,\x20and\x20fellow\x20developers\x20in\x20order\x20to\x20ensure\x20the\x20efficiency\x20of\x20an\x20automation</li>\x0a'+_0x467d77(0xcc)+'<li>**Re-hired\x20to\x20continue\x20part-time**</li></ul>\x0a'+_0x467d77(0xd5)+'<strong><u>NSF\x20Research:\x20Digital\x20Twins\x20for\x20Natural\x20Disasters\x20(Japan)</u></strong>\x0a'+_0x467d77(0xf9)+_0x467d77(0xe8)+_0x467d77(0xed)+_0x467d77(0xfa)+_0x467d77(0xf4)+_0x467d77(0xe2)+'<ul><li>Established\x20a\x20Python,\x20Lua,\x20and\x20C++\x20curriculum\x20by\x20working\x20collaboratively\x20with\x20a\x20small\x20team\x20to\x20design\x20innovative\x20and\x20engaging\x20programming\x20lessons</li>\x0a'+_0x467d77(0x105)+'<li>Facilitated\x20student\x20projects\x20using\x20Java\x20and\x20Python\x20to\x20create\x20and\x20modify\x20video\x20games</li></ul>\x0a'+'<img\x20src=\x27images/jcie1.png\x27\x20class=\x27exppics\x27\x20style=\x27width:\x20\x20300px;\x20height:\x20auto;\x27\x20alt=\x27digitwinpic\x27></img>\x0a'+_0x467d77(0xfc)+_0x467d77(0xfd)+'<li>Identified,\x20analyzed\x20and\x20corrected\x20data\x20entry\x20errors\x20in\x20organization\x20archives\x20during\x20routine\x20data\x20audits\x20through\x20the\x20use\x20of\x20HTML\x20and\x20WordPress</li></ul>\x0a','github':_0x467d77(0xd4),'skills':_0x467d77(0xe1),'hobbies':_0x467d77(0xe1),'contact':'Email\x20me\x20at:\x20ashizawa.n@northeastern.edu','clear':'','mehul':_0x467d77(0xff),'ls':'Force\x20of\x20habit?\x20There\x27s\x20no\x20files\x20here\x20(please\x20don\x27t\x20crack\x20my\x20website)😅','hello':[_0x467d77(0xe7),_0x467d77(0xef),_0x467d77(0xe6),_0x467d77(0xf6)],'name':_0xeea394,'08032023':[_0x467d77(0xeb),'miss\x20you\x20:)',_0x467d77(0x104)],'pkmn':_0x467d77(0xea),'resume':_0x467d77(0x101),'reina':_0x467d77(0x100)};let _0x49aa84='';_0x56fb83('name'),_0x541904['addEventListener'](_0x467d77(0xdf),function(_0x34f891){const _0x4f75ce=_0x467d77;if(_0x34f891['key']===_0x4f75ce(0xdb)){const _0x3cb46b=String(_0x541904[_0x4f75ce(0xf7)][_0x4f75ce(0x106)]())['toLowerCase']();_0x56fb83(_0x3cb46b),_0x541904[_0x4f75ce(0xf7)]='';}_0x34f891['key']===_0x4f75ce(0xf3)&&(_0x541904['value']=_0x49aa84);});function _0x3367ad(){const _0x4cb78=_0x467d77;_0x849711['innerHTML']+=_0x4cb78(0xec);}function _0x56fb83(_0x1d14f9){const _0x2c5676=_0x467d77;let _0x3f7b01;if(_0x1d14f9===_0x2c5676(0xe0)){const _0x19790b=_0x202114['hello'];_0x3f7b01=_0x19790b[Math[_0x2c5676(0x109)](Math[_0x2c5676(0xf5)]()*_0x19790b['length'])];}else{if(_0x1d14f9===_0x2c5676(0xce)){const _0x33820a=_0x202114[_0x2c5676(0xce)];_0x3f7b01=_0x33820a[Math[_0x2c5676(0x109)](Math[_0x2c5676(0xf5)]()*_0x33820a['length'])];}else{if(_0x1d14f9===_0x2c5676(0xf0))_0x3f7b01=_0x202114[_0x2c5676(0xf0)],setTimeout(()=>{const _0x12f984=_0x2c5676;window[_0x12f984(0xdc)][_0x12f984(0xe5)]='resume.html';},0x3e8);else _0x1d14f9===_0x2c5676(0xd9)?(_0x3f7b01=_0x202114['reina'],setTimeout(()=>{const _0x1a92f5=_0x2c5676;window[_0x1a92f5(0xdc)][_0x1a92f5(0xe5)]=_0x1a92f5(0x102);},0x3e8)):_0x3f7b01=_0x202114[_0x1d14f9]||'Command\x20not\x20found:\x20'+_0x1d14f9;}}if(_0x1d14f9==='clear'){_0x849711[_0x2c5676(0xf8)]='';return;}_0x3367ad(),_0x849711['innerHTML']+=_0x1d14f9+'\x0a'+_0x3f7b01+'\x0a',_0x849711['scrollTop']=_0x849711[_0x2c5676(0xd0)],_0x49aa84=_0x1d14f9;}}));
+// REMEMBER TO OBFSUCUIUWIQDH THE SCRIPT
+
+document.addEventListener("DOMContentLoaded", () => {
+    const output = document.getElementById("output");
+    const inputField = document.getElementById("command-input");
+    
+
+    const asciiNameApple = `
+    ▗▖  ▗▖▗▄▄▄▖ ▗▄▄▖▗▖ ▗▖    
+    ▐▛▚▖▐▌  █  ▐▌   ▐▌▗▞▘    
+    ▐▌ ▝▜▌  █  ▐▌   ▐▛▚▖     
+    ▐▌  ▐▌▗▄█▄▖▝▚▄▄▖▐▌ ▐▌    
+     ▗▄▖  ▗▄▄▖▗▖ ▗▖▗▄▄▄▖     
+    ▐▌ ▐▌▐▌   ▐▌ ▐▌  █       
+    ▐▛▀▜▌ ▝▀▚▖▐▛▀▜▌  █       
+    ▐▌ ▐▌▗▄▄▞▘▐▌ ▐▌▗▄█▄▖zawa                                                                                                                       
+    `;
+
+    const asciiNameWindows = `
+    ███    ██ ██  ██████ ██   ██ 
+    ████   ██ ██ ██      ██  ██  
+    ██ ██  ██ ██ ██      █████   
+    ██  ██ ██ ██ ██      ██  ██  
+    ██   ████ ██  ██████ ██   ██ 
+                                               
+     █████  ███████ ██   ██ ██   
+    ██   ██ ██      ██   ██ ██   
+    ███████ ███████ ███████ ██   
+    ██   ██      ██ ██   ██ ██   
+    ██   ██ ███████ ██   ██ ██ zawa`
+
+     // Detect the user's platform and select the proper ASCII art.
+     let asciiName;
+     const platform = navigator.platform.toLowerCase();
+     if (platform.indexOf("win") !== -1) {
+         asciiName = asciiNameWindows;
+     } else if (platform.indexOf("mac") !== -1) {
+         asciiName = asciiNameApple;
+     } else {
+         // Fallback to one of them (here, Apple version) if the platform is not recognized.
+         asciiName = asciiNameApple;
+     }
+
+    // Input options for the terminal
+    const commands = {
+        cmd: "Available commands:\nhelp OR cmd\n" + 
+        "clear\n\n--- PROFESSIONAL ---\nabout OR whoru\nexperience\ngithub\nskills\nresume\ncontact\n\n" + 
+        "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
+        help: "Available commands:\nhelp OR cmd\nclear\n\n" + 
+        "--- PROFESSIONAL ---\nabout OR whoru\nexperience\ngithub\nskills\nresume\ncontact\n\n" +
+        "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
+        about: "<img src='images/Ashizawa, Nicolas IMG_0412.JPG' class='headshot' style='width: 500px; height: auto' alt='My headshot should be here'></img>\nI'm Nick Ashizawa. People either call me Nick or Ashi—either one works! I'm a fourth-year Computer Science major passionate about general software development and eager to gain industry experience. I originally studied Computer Engineering but switched to Computer Science after my second year to follow my greater interest in programming.\n\nI currently work as an Automation Engineer at Citizens Financial Group primarily working with technologies like UiPath, C#, .NetVB, and JS. I have experience teaching the basics of programming in Python, C++, Java, and more, and I was recently involved in research at UC Irvine, focusing on developing digital twins for natural disaster preparedness.\n\nIn my free time, I enjoy playing guitar, soccer, reading, and following the gaming industry.\n\nThis is my terminal-style portfolio. Built with HTML, CSS, and JavaScript. Raw code. No frameworks.",
+        whoru: "<img src='images/Ashizawa, Nicolas IMG_0412.JPG' class='headshot' style='width: 500px; height: auto; ' alt='My headshot should be here'></img>\nI'm Nick Ashizawa. People either call me Nick or Ashi—either one works! I'm a fourth-year Computer Science major passionate about general software development and eager to gain industry experience. I originally studied Computer Engineering but switched to Computer Science after my second year to follow my greater interest in programming.\n\nI currently work as an Automation Engineer at Citizens Financial Group primarily working with technologies like UiPath, C#, .NetVB, and JS. I have experience teaching the basics of programming in Python, C++, Java, and more, and I was recently involved in research at UC Irvine, focusing on developing digital twins for natural disaster preparedness.\n\nIn my free time, I enjoy playing guitar, soccer, reading, and following the gaming industry.\n\nThis is my terminal-style portfolio. Built with HTML, CSS, and JavaScript. Raw code. No frameworks.",
+        experience: 
+        // Citizens exp
+        "\n<img src='images/citizens.png' class='exppics' style='width: 250px; height: auto' alt='cfgicon'></img>\n" +
+        "<strong><u>(Current) Automation SWE @ Citizens Financial Group</u></strong>\n" +
+        "<ul><li>Delivered a project end-to-end automating a large part of a client's workflow involving the monitoring, updating, and maintenance of multiple DDA checking accounts (handling over minimum 50+ transactions daily)</li>\n" +
+        "<li>Optimized and added new logic to three legacy automations, improving their efficiency and reliability as well as improving ledgibility of code for future developers</li>\n" +
+        "<li>Utilize UiPath to create scalable intelligent process automations</li>\n" +
+        "<li>Communicate with the business line, solution architect, and fellow developers in order to ensure the efficiency of an automation</li>\n" +
+        "<li>Develop UiPath libraries for developer use in C#, VB</li>\n" +
+        "<li>**Re-hired to continue part-time**</li></ul>\n" +
+        // UCI exp
+        "<img src='images/digitwinpanel.png' class='exppics' style='width:  300px; height: auto;' alt='digitwinpic'></img>\n" +
+        "<strong><u>NSF Research: Digital Twins for Natural Disasters (Japan)</u></strong>\n" +
+        "<ul><li>Designed and developed an interactive predictive city-scale digital twin for natural disaster preparedness and evacuation optimization as a part of the NSF-funded IoT-SITY research program</li>\n" +
+        "<li>Experimented with and integrated tools such as Unity, PLATEAU SDK, CityGML, OpenStreetMaps, and C# to create AI-enabled agents for running simulations</li>\n" +
+        "<li>Engineered algorithms to optimize agent behavior, simulating real-world responses to emergency scenarios</li>\n" +
+        "<li>Actively communicated project updates through weekly team meetings and contributed to a productive and supportive work environment through effective teamwork</li></ul>\n" +
+        //Code Ninjas exp
+        "<img src='images/codenin.jpg' class='exppics' style='width:  300px; height: auto;' alt='codeninpic'></img>\n" +
+        "<strong><u>Code Ninjas - Instructor, Program Director</u></strong>\n" +
+        "<ul><li>Established a Python, Lua, and C++ curriculum by working collaboratively with a small team to design innovative and engaging programming lessons</li>\n" +
+        "<li>Taught over 150 students across elementary, middle, and high school age groups, keeping topics accessible to diverse coding backgrounds and age groups</li>\n" +
+        "<li>Facilitated student projects using Java and Python to create and modify video games</li></ul>\n" +
+        // JCIE exp
+        "<img src='images/jcie1.png' class='exppics' style='width:  300px; height: auto;' alt='digitwinpic'></img>\n" +
+        "<strong><u>Japan Center for International Exchange (JCIE)</u></strong>\n" +
+        "<ul><li>Organized and edited digital files while utilizing interpersonal, verbal, written communication</li>\n" +
+        "<li>Identified, analyzed and corrected data entry errors in organization archives during routine data audits through the use of HTML and WordPress</li></ul>\n",
+        github: "Check out my GitHub at: https://github.com/nick-ashi",
+        skills: "IN DEV",
+        hobbies: "IN DEV",
+        contact: "Email me at: ashizawa.n@northeastern.edu",
+        clear: "",
+        mehul: "My inspiration from mehulnair.com. Hire that man immediately.",
+        ls: "Force of habit? There's no files here (please don't crack my website)😅",
+        hello: [
+            "Don't say hi to me. I'm just a computer.",
+            "Again? I'm not a person. I'm a computer.",
+            "Can you please just use the terminal for its intended purpose.",
+            "I'm just a computer. I don't have feelings."],
+        name: asciiName,
+        "08032023": [
+            "i love you <3",
+            "miss you :)",
+        ],
+        // POKEMON RADICAL RED
+        pkmn: "<iframe src='https://www.retrogames.cc/embed/46552-pokemon-radical-red-v4-1.html' align-self: center; width='600' height='450' frameborder='no' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' scrolling='no'></iframe></iframe>\nPokemon Radical Red",
+        resume: "Redirecting you to my resume...",
+        reina: "Hello, sister..."
+    };
+
+    // For viewing the most recent command
+    let prevCmd = "";
+
+    // Add the name ASCII art to the terminal
+    processCommand("name");
+
+    // Process commands when the user presses Enter
+    inputField.addEventListener("keydown", function (event) {
+        if (event.key === "Enter") {
+            const command = String(inputField.value.trim()).toLowerCase();
+            processCommand(command);
+            inputField.value = "";
+        }
+        if (event.key === "ArrowUp") {
+            inputField.value = prevCmd;
+        }
+    });
+
+    // Add the leadup to the terminal
+    function addPrompt() {
+        output.innerHTML += `<span class="welcome">welcome</span><span class="ashiterminal">@ashiterminal</span>:~$ `;
+    }
+
+    // Process the command and add the response to the terminal
+    function processCommand(command) {
+        let response;
+
+        if (command === "hello") {
+            const helloResponses = commands.hello;
+            response = helloResponses[Math.floor(Math.random() * helloResponses.length)];
+        } else if (command === "08032023") {
+            const anniversaryResponses = commands["08032023"];
+            response = anniversaryResponses[Math.floor(Math.random() * anniversaryResponses.length)];
+        } else if (command === "resume") {
+            response = commands.resume;
+            setTimeout(() => {
+                window.location.href = 'resume.html';
+            }, 1000); 
+        } else if (command === "reina") {
+            response = commands.reina;
+            setTimeout(() => {
+                window.location.href = 'https://tft.op.gg/?hl=en_US';
+            }, 1000); 
+        } else {
+            response = commands[command] || `Command not found: ${command}`;
+        }
+        if (command === "clear") {
+            output.innerHTML = "";
+            return;
+        }
+
+        addPrompt();
+        output.innerHTML += `${command}\n${response}\n`;
+        output.scrollTop = output.scrollHeight;
+        prevCmd = command;
+    }
+});

@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const commands = {
         cmd: "Available commands:\nhelp OR cmd\n" + 
         "clear\n\n--- PROFESSIONAL ---\nabout OR whoru\nexperience\ngithub\nskills\nresume\ncontact\n\n" + 
-        "--- PERSONAL ---\nashipfd\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
+        "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
         help: "Available commands:\nhelp OR cmd\nclear\n\n" + 
         "--- PROFESSIONAL ---\nabout OR whoru\nexperience\ngithub\nskills\nresume\ncontact\nashipfd\n\n" +
         "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",

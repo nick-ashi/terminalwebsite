@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const commands = {
         cmd: "Available commands:\nhelp OR cmd\n" + 
         "clear\n\n--- PROFESSIONAL ---\nabout OR whoru\nexperience\ngithub\nskills\nresume\ncontact\n\n" + 
-        "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
+        "--- PERSONAL ---\nashipfd\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
         help: "Available commands:\nhelp OR cmd\nclear\n\n" + 
         "--- PROFESSIONAL ---\nabout OR whoru\nexperience\ngithub\nskills\nresume\ncontact\n\n" +
         "--- PERSONAL ---\nhobbies\nmehul\nreina\nhello\npkmn\nname\nanvrsy",
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "<strong><u>Japan Center for International Exchange (JCIE)</u></strong>\n" +
         "<ul><li>Organized and edited digital files while utilizing interpersonal, verbal, written communication</li>\n" +
         "<li>Identified, analyzed and corrected data entry errors in organization archives during routine data audits through the use of HTML and WordPress</li></ul>\n",
-        github: "Check out my GitHub at: https://github.com/nick-ashi",
+        github: "Check out my GitHub at: <a href='https://github.com/nick-ashi' target='_blank' rel='noopener noreferrer'>github.com/nick-ashi</a>",
         skills: "IN DEV",
         hobbies: "IN DEV",
         contact: "Email me at: ashizawa.n@northeastern.edu",
@@ -96,6 +96,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "i love you <3",
             "miss you :)",
         ],
+        ashipfd: "<a href='https://ashipfd.vercel.app' target='_blank' rel='noopener noreferrer'>Click here to go to my finance dashboard project AshiPFD</a>",
         // POKEMON RADICAL RED
         pkmn: "<iframe src='https://www.retrogames.cc/embed/46552-pokemon-radical-red-v4-1.html' align-self: center; width='600' height='450' frameborder='no' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' scrolling='no'></iframe></iframe>\nPokemon Radical Red",
         resume: "Redirecting you to my resume...",
